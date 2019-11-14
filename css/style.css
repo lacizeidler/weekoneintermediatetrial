@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("../css/images/7vOIeS.jpg");
+    color: white;
+}
+
+.top{
+    display: block;
+}
+
+.header{
+    font-size: 40px;
+    float: left;
+    font-style: bold;
+    color: white;
+    margin: 20px;
+    height: 80px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 40px 20px 20px 20px;
+    float: right;
+}
+
+.navigation li{
+    display: inline-block;
+    padding: 0 10px 10px 0;
+}
+
+
+.intro{
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 60px;
+
+}
+
+.intro h1{
+    font-size: 48px;
+    font-weight: 300;
+    margin-top: 65px;
+}
+
+.intro p{
+    font-size: 20px;
+}
+
+.intro button{
+    color:black;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 15px;
+    background-color: white;
+    font-weight: bold;
+    border: 2px black solid;
+}
+
+.item {
+    float: left;
+    margin: 25px 0;
+    padding: 5px 0 20px 0;
+    text-align: center;
+    width: 33.3333333333%;
+    color: black;
+}
+.item h3 {
+    font-size: 20px;
+    padding: 5px 0;
+}
+.item p {
+    font-size: 16px;
+    padding: 10px 55px;
+}
+
+.files {
+    background-color: white;
+}
+
+.footer{
+    background-image: url("../css/images/white-background-twill.jpg");
+    color: black;
+    border: 3px black solid;
+}
+
+.footer h2{
+    text-align: center;
+    margin: 10px 10px;
+}
+
+.footer p{
+    text-align: center;
+    margin: 10px 10px;
+}
+
